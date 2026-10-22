@@ -1,0 +1,15 @@
+.pt-serif-caption-regular {
+  font-family: "PT Serif Caption", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-serif-caption-regular-italic {
+  font-family: "PT Serif Caption", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h1{
+    font-family: "PT Serif Caption", serif;
+}
