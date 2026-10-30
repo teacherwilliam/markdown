@@ -9,7 +9,7 @@ let array_nombre = nombre.split(" ");
 
 let numeros = "1,2,3";
 let array_numeros = numeros.split(",");
-array_numeros.push(4)
+array_numeros.push(4);
 
 
 //toUpperCase
